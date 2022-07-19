@@ -2,16 +2,19 @@
 
     <head>
             <title> PWC WEBSITE</title>
+            <link rel="stylesheet" href="style.css">
     </head>
 
 
-<body style="background-color:brown">
-    <a href="index.html">HOME</a>
-    <a href="contactus.html">CONTACT US</a>
-    <a href="gallary.html">GALLARY</a>
-    <a href="applicationform.html">APPLICATION FORM</a>
-    <a href="aboutus.html"></a>
-    
+<body>
+    <a href="index.html">HOME</a>|
+    <a href="contactus.html">CONTACT US</a>|
+    <a href="gallary.html">GALLARY</a>|
+    <a href="applicationform.html">APPLICATION FORM</a>|
+    <a href="aboutus.html"></a>|
+
+    <br>
+    <h1><img src="logo.jpg" width="40" height="40"><span> PWC STUDENT WEBSITE </span></h1>
     <h1>PWC Auditing File </h1>
     <p>THIS IS MY FIRST WEBSITE CREATED DURING MY TIME IN PWC LEARNING SOFTWARE DEVELOPMENT</p>
     <img src="pwc.png" alt="" width="200" height="200">
