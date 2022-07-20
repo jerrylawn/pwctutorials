@@ -3,6 +3,7 @@ body{
 }
 table,td,th{
     border: 2px solid red;
+    text-align: center;
     
 }
 h2{
@@ -11,4 +12,7 @@ h2{
 }
 a{
     margin: 5px;
+}
+a:hover{
+    color: rgb(226, 141, 43);
 }
